@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 .vscode/launch.json
 **/.next/*
-node_modules/*
+**/node_modules/*
